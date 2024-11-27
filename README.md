@@ -31,7 +31,6 @@ Je prépare également une alternance pour un **Master** en développement à pa
 - 🎼 **Symfony** et 🐘 **PHP** (Développement d’applications web et API back-end)
 - 🅰️ **Angular** (Développement front-end dynamique pour applications SPA)
 - 🌀 **Slim Framework** (Framework léger pour des API performantes)
-- 💎 **Ruby on Rails** (Développement MVC en Ruby)
 - 🌐 **JavaScript** (Applications et interfaces utilisateur dynamiques)
 
 ## Objectif de stage
