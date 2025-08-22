@@ -49,7 +49,7 @@ Passionné de **développement web** depuis 20 ans, j’aime apprendre, transmet
 
 ## 🎣 Passions
 - 🎣 Pêche  
-- 🕹️ World of Warcraft (For the Horde! ⚔️)  
+- 🕹️ World of Warcraft
 
 ---
 
