@@ -7,9 +7,9 @@
 Passionné de **développement web** depuis 20 ans, j’aime apprendre, transmettre et coder des projets full-stack 🚀  
 
 🎓 **Formations** :  
-- Diplômé **Concepteur Développeur d’Applications (CDA)** (2025)  
-- Diplômé **Développeur Web et Web Mobile (DWWM)** (2024)  
-- Diplômé **Technicien Assistance Informatique (TAI)** (2007)  
+- Diplômé **Concepteur Développeur d’Applications (CDA)** 
+- Diplômé **Développeur Web et Web Mobile (DWWM)**  
+- Diplômé **Technicien Assistance Informatique (TAI)**  
 
 ---
 
