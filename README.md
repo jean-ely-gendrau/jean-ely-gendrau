@@ -39,9 +39,7 @@ Passionné de **développement web** depuis 20 ans, j’aime apprendre, transmet
 
 ## 📊 Mes Stats GitHub
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=jean-ely-gendrau&show_icons=true&theme=radical)  
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=jean-ely-gendrau&layout=compact&theme=radical)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jean-ely-gendrau&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=jean-ely-gendrau&rank_icon=percentile&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jean-ely-gendrau&theme=radical)
 
